@@ -4,7 +4,7 @@
 
 - 🌱 Estou sempre buscando aprender coisas novas
 - 🎯 Sempre focado em entregas rápidas, sem esquecer da qualidade do código
-- 🥅 Adoro rock, tecnologia e cerveja!
+- 🥅 Adoro rock e tecnologia!
 
 ### Entre em contato comigo:
 
