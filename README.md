@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Olá, eu sou o [Ítalo] 👋
 
-### Trabalho atualmente como desenvolvedor Full-Stack, usando Node, React e React-Native
+### Sou desenvolvedor Full-Stack, especializado em Node, React e React-Native
 
 - 🌱 Estou sempre buscando aprender coisas novas
 - 🎯 Sempre focado em entregas rápidas, sem esquecer da qualidade do código
